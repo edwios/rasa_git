@@ -29,3 +29,8 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## Praise me
+
+* praise
+    - utter_happy

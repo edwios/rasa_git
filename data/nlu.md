@@ -58,3 +58,38 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:praise
+- You are beautiful
+- You are brilliant
+- You are such a clever girl
+- Clever girl
+- You are so clever!
+
+## intent:cheerup
+- You are so cute
+- You are really pretty
+
+## intent:poke
+- Can you dance
+- Do you know how to dance
+- Do you have a boy friend
+- Can you jump
+- Can you eat
+
+## intent:operate_devices
+- Turn the kitchen lights on
+
+## intent:dance
+- Perform a sweet dance for me
+- Can you dance for me
+
+## intent:flirt
+- You are hot
+- You are sexy
+- You are very sexy
+- You are hot and sexy
+
+## intent:humiliate
+- You look ugly
+- You are stupid
