@@ -52,6 +52,9 @@
 - extremely sad
 - so sad
 - No good
+- Wait, so soon?
+- Carry on what?
+- I am fine, why ask me?
 
 ## intent:bot_challenge
 - are you a bot?
@@ -65,6 +68,7 @@
 - You are such a clever girl
 - Clever girl
 - You are so clever!
+- You are so clever
 
 ## intent:cheerup
 - You are so cute
@@ -79,6 +83,7 @@
 
 ## intent:operate_devices
 - Turn the kitchen lights on
+- Please switch on the kitchen lights
 
 ## intent:dance
 - Perform a sweet dance for me
